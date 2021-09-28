@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5846368-8057-470d-af7f-349a6e3f61b0/deploy-status)](https://app.netlify.com/sites/graphlinq-docs/deploys)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.

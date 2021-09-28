@@ -66,11 +66,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [
           {
-            href: '/search',
-            label: 'Search',
-            position: 'right',
-          },
-          {
             href: 'https://t.me/graphlinq_development_support',
             label: 'Support',
             position: 'right',

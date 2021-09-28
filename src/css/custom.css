@@ -38,12 +38,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-html[data-theme='dark'] .searchQueryInput_node_modules-\@easyops-cn-docusaurus-search-local-dist-client-client-theme-SearchPage-SearchPage-module {
-  border: var(--ifm-global-border-width) solid var(--ifm-navbar-background-color) !important;
-  background: var(--ifm-navbar-background-color) !important;
-}
-
-html[data-theme='dark'] #__docusaurus > div.main-wrapper > div > input {
-  border: var(--ifm-global-border-width) solid var(--ifm-navbar-background-color) !important;
-  background: var(--ifm-navbar-background-color) !important;
+#__docusaurus > nav > div.navbar__inner > div.navbar__items.navbar__items--right > div.navbar__search > span > input {
+  outline: none !important;
 }

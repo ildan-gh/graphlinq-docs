@@ -11,7 +11,9 @@ GraphLinq offers automation of decentralized data monitorization and external ex
 IDE: [https://ide.graphlinq.io](https://ide.graphlinq.io)  
 Dashboard: [https://app.graphlinq.io](https://app.graphlinq.io)  
 Official website: [https://graphlinq.io](https://graphlinq.io)  
-Documentation: [https://docs.graphlinq.io](https://docs.graphlinq.io)  
+Litepaper: [https://graphlinq.io/litepaper.pdf](https://graphlinq.io/litepaper.pdf)  
+Presale contract audit by CTDSec: [https://graphlinq.io/Cybersecurity_Audit_CTDSEC_GraphLinq_Presale.pdf](https://graphlinq.io/Cybersecurity_Audit_CTDSEC_GraphLinq_Presale.pdf)  
+Balance contract audit by Rug Detectives: [https://graphlinq.io/Rug_Detectives_Audit_Report.pdf](https://graphlinq.io/Rug_Detectives_Audit_Report.pdf)
 
 ## Ethereum
 
